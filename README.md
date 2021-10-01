@@ -1,2 +1,2 @@
-# django_api
+# Django Rest API
 API usando Django Rest Framework
